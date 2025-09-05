@@ -91,7 +91,6 @@ div.lazy {
 }
 
 
-/* Site background: override Bootstrap's bg-light on <body> */
 body {
     background-color: #fdedc7;
 }
