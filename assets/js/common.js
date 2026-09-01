@@ -38,4 +38,18 @@ $(function () {
     $(".lazy").on("load", function () {
         $grid.masonry('layout');
     });
+
+    var toggle = document.getElementById('theme-toggle');
+    if (toggle) {
+        var setLabel = function (theme) {
+            toggle.setAttribute('aria-label', theme === 'dark' ? 'Switch to light theme' : 'Switch to dark theme');
+        };
+        setLabel(document.documentElement.getAttribute('data-theme'));
+        toggle.addEventListener('click', function () {
+            var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+            setLabel(next);
+        });
+    }
 })

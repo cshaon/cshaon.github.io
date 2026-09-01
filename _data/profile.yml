@@ -3,33 +3,37 @@ secondary_name: ""
 navbar_name: "Shaon Chakraborty"
 
 positions:
-- logo: /assets/images/badges/rrilogo2.png  # Logo is optional
-  name: Research Assistant @ Raman Research Institute
+- logo: /assets/images/badges/hhu_logo_mobil.png
+  name: PhD student @ Heinrich Heine University Düsseldorf
 
 
 
-email: "cshaon194@gmail.com"
-# cv_link: link-to-your-cv-file
+email: "shaon.chakraborty@hhu.de"
+cv_link: /assets/shaon_cv.pdf
 gscholar: saboXhYAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: cshaon
-linkedin: shaon-chakraborty-67581a193
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Hello! I am a PhD student at the <a href="https://www2.thphy.uni-duesseldorf.de/index.php" target="_blank">Institut für Theoretische Physik II: Soft Matter, Heinrich-Heine-Universität Düsseldorf</a> working with <a href="https://scholar.google.com/citations?user=jiw3aksAAAAJ&amp;hl=de" target="_blank">Dr. Jürgen Horbach</a>.
+    My research broadly focuses on understanding the physics of supercooled liquids and glasses, with a particular interest in their rheological and mechanical properties. I am also interested in systems that break the symmetries typically associated with equilibrium physics, including active matter, metamaterials, and biological systems. In particular, I am interested in developing theoretical and computational frameworks to understand these systems through the lens of concepts and theories developed for glasses and disordered materials.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    Previously, I worked as a research assistant in the soft condensed matter group at the <a href="https://www.rri.res.in/" target="_blank">Raman Research Institute</a>, Bangalore, where I studied the effects of emergent non-reciprocity in a variety of physical systems with <a href="https://scholar.google.com/citations?hl=en&amp;user=ObZopO8AAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank">Dr. Rituparno Mandal</a>.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
 
 education:
+- name: Heinrich Heine University Düsseldorf
+  logo: /assets/images/badges/hhu_logo_mobil.png
+  position: >-
+    Theoretical Physics II: Soft Matter, Department of Physics <br/> 
+    Doctor of Philosophy <br/>
+  date: 2026 - Present
 - name: Ramakrishna Mission Residential College
   logo: /assets/images/badges/RKM_logo.png
   position: >- 
@@ -45,15 +49,19 @@ experience:
  - name: Raman Research Institute
    logo: /assets/images/badges/rrilogo2.png
    position: Research Assistant
-   date: Jan. 2025 - Present
+   date: Mar. 2025 - Jul. 2026
+ - name: Raman Research Institute
+   logo: /assets/images/badges/rrilogo2.png
+   position: Visiting Student
+   date: Nov. 2024 - Mar. 2025
  - name: National Centre for Biological Sciences
    logo: /assets/images/badges/ncbs_logo.png
    position: Research Intern
-   date: Aug. 2023 - Jan. 2024
+   date: Jul. 2023 - Aug. 2024
  - name: National Centre for Biological Sciences
    logo: /assets/images/badges/ncbs_logo.png
-   position: Master's Thesis Intern
-   date: Jan. 2023 - Jun. 2023
+   position: Master's Research Intern
+   date: Jan. 2023 - May 2023
 
 
 
